@@ -2,7 +2,7 @@
   <img src="./tux.gif" width="150" alt="Spinning Tux" />
 </p>
 
-<h1 align="center">Merhaba, ben Mizugami! 👋</h1>
+<h1 align="center">Merhaba, ben Ahmet! 👋</h1>
 <h3 align="center">Öğrenci | Termux, Python ve C# Geliştiricisi 🇹🇷</h3>
 
 <p align="center">
