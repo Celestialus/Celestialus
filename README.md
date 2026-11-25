@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./tux.gif" width="150" alt="Spinning Tux" />
+</p>
+
 <h1 align="center">Merhaba, ben Mizugami! 👋</h1>
 <h3 align="center">Öğrenci | Termux, Python ve C# Geliştiricisi 🇹🇷</h3>
 
@@ -49,4 +53,4 @@
   <a href="https://www.threads.net/@rxyigi.t" target="_blank">
     <img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white" />
   </a>
-</p
+</p>
